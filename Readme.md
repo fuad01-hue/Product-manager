@@ -29,7 +29,9 @@ Sesuai dengan materi perkuliahan, project ini sudah menerapkan beberapa standar 
    
 ```bash
 git clone [https://github.com/fuad01-hue/product-manager.git](https://github.com/fuad01-hue/product-manager.git)
-
+```
+# Struktur Proyek
+```
 product-manager/
 ├── config/
 │   └── db.php           # File koneksi PDO ke database
